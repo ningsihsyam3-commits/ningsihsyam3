@@ -35,8 +35,8 @@ Currently, I am focusing on building robust, cloud-based data pipelines that all
 ---
 
 ## 📫 Let's Collaborate
-- **LinkedIn**: [linkedin.com/in/username-anda](link)
-- **Portfolio**: [GitHub Repositories](https://github.com/ningsihsyam3?tab=repositories)
+- **LinkedIn**: [linkedin.com/in/wahyunia-ningsih-syam]([https://www.linkedin.com/in/wahyunia-ningsih-syam](https://www.linkedin.com/in/wahyunia-ningsih-syam?utm_source=share_via&utm_content=profile&utm_medium=member_ios)) *(Pastikan ganti dengan link asli Anda)*
+- **Portfolio**: [GitHub Repositories](https://github.com/ningsihsyam3-commits?tab=repositories)
 - **Availability**: Open for Remote Data Analysis & Automation roles.
 
 > "Building the future of work through data, one automated script at a time."
